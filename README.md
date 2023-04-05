@@ -1,6 +1,6 @@
 <img align="center" src="808project/images/read808.png" alt="website homepage" />
 
-<h1 align="center>Island Grinds</h1>
+<h1 align="center">Island Grinds</h1>
 
 Client site for a local Hawaiian food truck
 
